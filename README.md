@@ -7,7 +7,7 @@ These patterns are inspired by Christopher Okhravi's [youtube playlist on the sa
 
 Patterns implemented so far:
 - [x] Strategy
-- [ ] Observer
+- [x] Observer
 - [ ] Decorator
 - [ ] Factory
 - [ ] Abstract Factory
